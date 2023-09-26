@@ -4,6 +4,8 @@
 
 ### Please see the original code if you wish to follow along with the above tutorial
 
+Please excuse any mistakes, this is simply a hobby to me that i am making freely available should someone else find it useful.
+
 ### Download the ESPHome Code:
 * 1 - Use the '***Code***' button above (_Top Right_)
 * 2 - Use '***Download ZIP**'* to get all the files
