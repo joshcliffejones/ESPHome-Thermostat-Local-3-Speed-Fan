@@ -11,3 +11,5 @@ Please excuse any mistakes, this is simply a hobby to me that i am making freely
 * 2 - Use '***Download ZIP**'* to get all the files
 
 ![Capture](https://user-images.githubusercontent.com/51385971/188827073-031569de-bf1c-4451-bbc8-c2790b6c0be2.JPG)
+
+Un-ZIP and copy the "_fonts" and "_icons" folders to your "esphome" folder BEFORE you copy/paste the yaml in to ESPHome
