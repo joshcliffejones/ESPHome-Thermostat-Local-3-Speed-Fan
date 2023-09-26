@@ -1,4 +1,4 @@
-# ESPHome Thermostat and 3-Speed Fan
+#  ESPHome-Thermostat-Local-3-Speed-Fan
 
 ### Watch the original full tutorial and ESPHome Code Breakdown here by 3ative: [Full Tutorial](https://youtu.be/ru6N80en3uo)
 
